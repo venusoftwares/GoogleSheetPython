@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="../static/index.css">
+	
+	<title></title>
+</head>
+<body>
+	<form class="grid" action="/result" method="POST">
+
+		<center>
+			<img class="header-image" src="https://venusoftwares.com/assets/img/logo.png">
+		</center>
+		
+		<label for="name">Enter Date:</label>
+		<input type="date" name="name" id="name"> 
+		 
+		<label for="name">Yes / No (Optional) :</label>
+		<select name="optionSelected" id="optionSelected">
+			<option value="y">Yes</option>
+			<!-- <option value="y">Yes</option>
+			<option value="n">No</option> -->
+			
+		</select>
+		<center>
+			YES: <input type="radio" class="file_submit" value="Yes" name="decision">
+			NO: <input type="radio" checked class="file_submit" value="No"  name="decision">
+		</center> 
+		<center>
+			<input type="submit" class="file_submit">
+		</center>
+		
+	</form>
+
+</body>
+</html>

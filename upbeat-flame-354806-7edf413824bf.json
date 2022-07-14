@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "upbeat-flame-354806",
+  "private_key_id": "7edf413824bf79e4e9757ea8eff29401b23646cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPQC/evfjib6/I\nnl2eLXcSNHXkzlQgNMV7mHUFby0KwdXE4wX4C0Hg3+yMhEoWmBcMrDG5g6fTfh1H\nRO6NjacUFG0AytZ3KO8FSVoTnrlX54UkZzZhWJrRcEvm0dFjXwcO+Zov9yjZXUFt\n3b90REFNnIHEYNMphxk+NXoW5rbGDn/dXr5ho2OvrlEVxcCa7kSEPPfjMnXegG90\njSX9Et4YS4eB6CzanokHbtUKwvdElTMl2K9BO+rYy3X3kNOeF6OcYxt0gTW6uoTL\nsu9c3i8Oh1xtadWW+hSMBdN9LqukMRTypC3TCLC+y+lUrkV/sllk2k2r5PGKyu0k\n1bXVroBTAgMBAAECggEAINqG/CNXUeXskrvwEUQZzQv96GCA234iFB6t5keid0MU\n9Rob9x8puVEl+Xx7FivT85FUbJkfQJqMX6DgxBXBd6BpSyfcaZVWlprzKYsOzI2K\nAKRP7YyTNkI79gIq1DrbLpeIxrPCiPqMhbMSR4cOZxQ5Sf0jXEDrUn49tWWrcafP\nsENF5ltYgR9fKhFxG/GFHAUtkrMP8qWMK5eRGeaRjexbxKAnzszopIE57mh3SZh5\nAQT1eErVWWPbvWMGTIyQrPiSVMQTXUgJ51V82FjFGu6yO5FUPxkgkuuTW3zTs1G3\nlBztwqmKcdZTRgtPU63eLC1j5+JI5pnrZUOYs/RbSQKBgQDunu6/dqRX1nLhS0Cn\nteBVK0Ao4Tr1te8pmjy6eLqd6tfcOXEi+HCBWAR3NNSJ4FGm6FZP230l+J1emqZP\nfj9oUlBebe/91v0lQc/JPh4Y80AdaRqks0XXuETe5YTuzug7cdu7McLRBIvct9J1\neTUyKet8mEW+S2wEKu4zcQmAbQKBgQDeWFx5yhG6WQaZLYn4zVV3v9V3XG89+oy3\n/RCnzZZV/2x7O44EtbvOVZnEFQDwx0Ekj8Np/LD0OyayFJ+2YPmwa+yo7z8VzTtv\nLUAd3otRYGcHkSuv7iSPuEZbfloK5MYUeWcXsD9dr3AyKD2t5a+yTjBJd88usRIg\nnK+ZRX8LvwKBgErYNvJ++BVFAkuAGwt/lJmiM0GfQ6sGIbne0uV6MK6Plp1QtxfM\n7RzkyqHJRFDqtzGu9kOeCKb8T//4aenNI35JM0QrH3dzE3u4JMBuZ2pUAew3p0+5\nm1KKTa/MNeHhrB3ZHJ6egQimcGgOkEigd/sAAwjViiqh5YN5I7Wm4uARAoGBANBK\n8N77KR5slhzbp3xYR6/2G3FFO8VROZCHV5oLo8GOlj7f7MyGv5itYm5pysbFs0Yg\nE83vdopl+3sqjPBa6q6WfE9KScwPxpUBTCZvPA6RBBP3sHiQ3NlypR7DQHEiHlpB\n3Q05BDOszat/PUDygmTEkMHSplm0cinw/yPUEg+bAoGBAKAnNk+mnlVR4nf3hf9l\nvRcqr3RkEjBAhVLQZTXwLQkrVV4leDvvsy2VtsXfDEkJk4Uqmd7aaWZ5rqUJbWFW\nMljaQwJcDvM+UixitSFyi6L4xBcPuQynICjIa3Ob9pBSTgz7qraH6pDfxLspgNDG\nD+OwDLgR63XaLku0KwcJSEQv\n-----END PRIVATE KEY-----\n",
+  "client_email": "venusoftwares-2022@upbeat-flame-354806.iam.gserviceaccount.com",
+  "client_id": "101555854620926028237",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/venusoftwares-2022%40upbeat-flame-354806.iam.gserviceaccount.com"
+}
